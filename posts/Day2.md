@@ -11,3 +11,4 @@ model evaluation can be done in two ways,
     - we will train the ML model on training dataset and validate the model on validation dataset then, combine both training and validation sets train the best model from set of models and evaluate the best model using the holdout set.
 
 NumPy: is a numerical python library written mostly in **C**, it is used to work with large arrays and mathametical operations in python (major usecases for linear algebra).
+NumPy Notebook: https://github.com/laxmanalla/MachineLearning/blob/day2/Codes/NumPy.ipynb
